@@ -1,0 +1,5 @@
+/data
+*.ipynb
+.env
+get_location.py
+__pycache__
