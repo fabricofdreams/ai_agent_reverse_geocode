@@ -1,3 +1,4 @@
+# Requirements: streamlit python-dotenv googlemaps langchain langchain_openai global-land-mask
 from dotenv import load_dotenv
 from ai_config import template, human_template, information
 from tools import reverse_geocode_agent
